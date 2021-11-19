@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 🚀 I’m a Marketing-Professional turned Founder based in Berlin, Germany
 
-💼 Here are some of my marketing roles
+💼 My Marketing roles
 
 - Freelance Media Strategist @ Advertising Agency, Berlin
 - Communications Manager @ German Savings Banks Association, Fulltime, Berlin
@@ -25,6 +25,7 @@ Here are some ideas to get you started:
 - Freelance Marketing Consultant @ Breakletics
 
 Industries I have experience with: 
+
 🎬 Entertainment (VoD)
 🤸🏽‍♀️ Sports
 📱 Telco
@@ -44,4 +45,4 @@ Industries I have experience with:
 
 remotenactive.com
 
-- 🌱 I’m currently learning Javascript
+🌱 I’m currently learning Javascript
