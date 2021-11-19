@@ -1,4 +1,4 @@
-### Hi there 👋
+### 👋🏾 Hi, I’m Jesse
 
 <!--
 **futurefounder/futurefounder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,34 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+🚀 I’m a Marketing-Professional turned Founder based in Berlin, Germany
+
+💼 Here are some of my marketing roles
+
+- Freelance Media Strategist @ Advertising Agency, Berlin
+- Communications Manager @ German Savings Banks Association, Fulltime, Berlin
+- Media Supervisor @ a GroupM Agency, Fulltme, Berlin
+- Freelance Marketing Consultant @ Breakletics
+
+Industries I have experience with: 
+🎬 Entertainment (VoD)
+🤸🏽‍♀️ Sports
+📱 Telco
+🚗 Automotive
+
+🎓 Education 
+
+- BA in Media Culture Studies / Media Psychology (University of Cologne, Germany)
+
+⚡ Fun facts:
+
+- I’m a passionate sportsperson & certified Group Fitness Trainer
+- I grew up playing SNES, loved Zelda and Mario Kart and used to play Counter Strike in the ESL Top 100 (very, veeeeery long ago)
+
+
+💫 I am helping companies working remotely create a social connection by providing fresh ideas, trending topics & inspiration that you can use straight away via
+
+remotenactive.com
+
+- 🌱 I’m currently learning Javascript
