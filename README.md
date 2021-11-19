@@ -17,6 +17,8 @@ Here are some ideas to get you started:
 
 🚀 I’m a Marketing-Professional turned Founder based in Berlin, Germany
 
+🔭 I’m currently working on [remotenactive.com](https://www.remotenactive.com)
+
 💼 My Marketing roles
 
 - Freelance Media Strategist @ Advertising Agency, Berlin
@@ -39,10 +41,5 @@ Industries I have experience with:
 
 - I’m a passionate sportsperson & certified Group Fitness Trainer
 - I grew up playing SNES, loved Zelda and Mario Kart and used to play Counter Strike in the ESL Top 100 (very, veeeeery long ago)
-
-
-💫 I am helping companies working remotely create a social connection by providing fresh ideas, trending topics & inspiration that you can use straight away via
-
-remotenactive.com
 
 🌱 I’m currently learning Javascript
