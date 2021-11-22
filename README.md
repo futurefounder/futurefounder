@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 💼 My Marketing roles
 
-- Freelance Media Strategist @ Advertising Agency, Berlin
+- Freelance Media Strategist for Agencies & Startups
 - Communications Manager @ German Savings Banks Association, Fulltime, Berlin
 - Media Supervisor @ a GroupM Agency, Fulltme, Berlin
 - Freelance Marketing Consultant @ Breakletics
