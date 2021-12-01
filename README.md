@@ -19,11 +19,14 @@ Here are some ideas to get you started:
 
 🔭 I’m currently working on [remotenactive.com](https://www.remotenactive.com)
 
-💼 My Marketing roles
+💼 Heres an overview of my Marketing roles
 
-- Freelance Media Strategist for Agencies & Startups
+Currently
+- Freelance Media Strategist (Paid Media) for Agencies & Startups
+
+Past
 - Communications Manager @ German Savings Banks Association, Fulltime, Berlin
-- Media Supervisor @ a GroupM Agency, Fulltme, Berlin
+- Media Supervisor @ a GroupM Agency, Fulltime, Berlin
 - Freelance Marketing Consultant @ Breakletics
 
 Industries I have experience with: 
