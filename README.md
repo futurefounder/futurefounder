@@ -27,7 +27,7 @@ Currently
 Past
 - Communications Manager @ German Savings Banks Association, Fulltime, Berlin
 - Media Supervisor @ a GroupM Agency, Fulltime, Berlin
-- Freelance Marketing Consultant @ Breakletics
+- Freelance Marketing Consultant @ Breakletics (Sports Startup)
 
 Industries I have experience with: 
 
