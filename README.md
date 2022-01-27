@@ -15,9 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🚀 I’m a Marketing-Professional turned Founder based in Berlin, Germany
-
-🔭 I’m currently working on [remotenactive.com](https://www.remotenactive.com)
+👨🏾‍💻 I’m a Founder I Freelance Marketing Consultant I Aspiring Front End Developer based in Berlin, Germany 
 
 💼 Heres an overview of my Marketing roles
 
@@ -28,13 +26,6 @@ Past
 - Communications Manager @ German Savings Banks Association, Fulltime, Berlin
 - Media Supervisor @ a GroupM Agency, Fulltime, Berlin
 - Freelance Marketing Consultant @ Breakletics (Sports Startup)
-
-Industries I have experience with: 
-
-🎬 Entertainment (VoD)
-🤸🏽‍♀️ Sports
-📱 Telco
-🚗 Automotive
 
 🎓 Education 
 
