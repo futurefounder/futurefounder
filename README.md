@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-👨🏾‍💻 I’m a Founder I Freelance Marketing Consultant I Aspiring Front End Developer based in Berlin, Germany 
+👨🏾‍💻 I’m a Founder I Freelance Marketing Consultant I Front End Developer based in Berlin, Germany 
 
 💼 Heres an overview of my Marketing roles
 
