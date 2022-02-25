@@ -1,8 +1,11 @@
 ###  <img src="https://i.ibb.co/f8fvRNb/fox-wave.gif" width="130px">
-## Hi there, I am Jesse Khala!
+### Hi there, I am Jesse!
+
+---
 
 ![Twitter_Follow](https://img.shields.io/twitter/follow/futurefounder21?style=social)
 ![Reddit_Follow](https://img.shields.io/reddit/user-karma/combined/Future_Founder?style=social)
+
 ---
 
 ⚡ Aspiring Front End Developer with a 10+ years background in marketing
@@ -21,13 +24,13 @@
 
 - I’m a passionate sportsperson & certified Group Fitness Trainer
 - I grew up playing SNES, loved Zelda and Mario Kart and used to play Counter Strike in the ESL Top 100 (very, veeeeery long ago)
+
 ---
 
 🧰 Toolbox
 
 <img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" alt="HTML Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" alt="CSS Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/javascript-1.svg" alt="JavaScript Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/tailwind-css-2.svg" alt="Tailwind CSS Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" alt="Git Logo" width="50" height="50"/>
 <br>
-<img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Logo_of_Hugo_the_static_website_generator.svg" alt="Hugo Logo" width="100" height="100"/>
 
 ---
 
@@ -37,13 +40,12 @@
 - <a href ="https://jessekhala.com/posts/full-stack-web-development-course-free/" target="_top"> 👨🏾‍💻 Learning Full Stack Web Development for Free - My First Month </a>
 - <a href ="https://jessekhala.com/posts/changes-to-remotenactive/" target="_top"> 🔁 Changes I am making on remotenactive.com </a>
 - <a href ="https://jessekhala.com/posts/validate-ideas/" target="_top"> 🚫 Validating Startup Ideas Does Not Work  </a>
+
 ⏩ <a href ="https://jessekhala.com/" target="_top"> ...more blog articles </a>
----
+
 ---
 
 ## 📊 My GitHub Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=<futurefounder>&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Jesse's GitHub stats](https://github-readme-stats.vercel.app/api?username=<futurefounder>&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=futurefounder&hide=stars,prs,issues&theme=calm)](https://github.com/anuraghazra/github-readme-stats)
 
