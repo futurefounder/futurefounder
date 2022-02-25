@@ -1,39 +1,24 @@
-### 👋🏾 Hi, I’m Jesse
+### Hi there <img src="https://i.ibb.co/f8fvRNb/fox-wave.gif" width="30px">, I am Jesse Khala!
+---
+https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Ffuturefounder21
+https://img.shields.io/reddit/user-karma/combined/Future_Founder?style=social
+---
 
-<!--
-**futurefounder/futurefounder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+⚡ Aspiring Front End Developer with a 10+ years background in marketing
 
-Here are some ideas to get you started:
+🔭 Started my own micro startup <a href ="https:www.remotenactive.com" target="_top"> remotenactive.com </a> and consult agencies and startups on paid media
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Learning Full Stack Web Development via @TheOdinProject
+✍
+✍🏾 I <a href ="https:www.jessekhala.com" target="_top">write about topics</a>  related to my journey  remotenactive.com 
 
-👨🏾‍💻 I’m a Founder I Freelance Marketing Consultant I Aspiring Front End Developer based in Berlin, Germany 
+👯 I’m looking to collaborate on exciting projects in the startup eco system
 
-💼 Heres an overview of my Marketing roles
+🎓 BA in Media Culture Studies / Media Psychology (University of Cologne, Germany)
 
-Currently
-- Freelance Media Strategist (Paid Media) for Agencies & Startups
-
-Past
-- Communications Manager @ German Savings Banks Association, Fulltime, Berlin
-- Media Supervisor @ a GroupM Agency, Fulltime, Berlin
-- Freelance Marketing Consultant @ Breakletics (Sports Startup)
-
-🎓 Education 
-
-- BA in Media Culture Studies / Media Psychology (University of Cologne, Germany)
-
-⚡ Fun facts:
+🤡 Fun facts:
 
 - I’m a passionate sportsperson & certified Group Fitness Trainer
 - I grew up playing SNES, loved Zelda and Mario Kart and used to play Counter Strike in the ESL Top 100 (very, veeeeery long ago)
+---
 
-🌱 I’m currently learning Javascript
