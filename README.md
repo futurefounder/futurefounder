@@ -8,7 +8,7 @@
 
 ---
 
-⚡ Aspiring Front End Developer with a 10+ years background in marketing
+⚡ Learning to code with a 10+ years marketing background
 
 🔭 Started my own micro startup <a href ="https:www.remotenactive.com" target="_top"> remotenactive.com </a> and consult agencies and startups on paid media
 
