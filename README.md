@@ -4,7 +4,6 @@
 ---
 
 ![Twitter_Follow](https://img.shields.io/twitter/follow/futurefounder21?style=social)
-![Reddit_Follow](https://img.shields.io/reddit/user-karma/combined/Future_Founder?style=social)
 
 ---
 
