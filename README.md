@@ -14,7 +14,7 @@
 
 🌱 Learning Full Stack Web Development via <a href ="https:www.theodinproject.com" target="_top">TheOdinProject</a>
 
-✍🏾 I <a href ="https:www.jessekhala.com" target="_top">write about topics</a>  related to my journey  
+✍🏾 I <a href ="https://www.jessekhala.com" target="_top">write about topics</a>  related to my journey  
 
 👯 I’m looking to collaborate on exciting projects in the startup eco system
 
