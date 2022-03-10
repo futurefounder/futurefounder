@@ -10,9 +10,9 @@
 
 ⚡ Learning to code with a 10+ years marketing background
 
-🔭 Started my own micro startup <a href ="https:www.remotenactive.com" target="_top"> remotenactive.com </a> and consult agencies and startups on paid media
+🔭 Started my own micro startup <a href ="https://www.remotenactive.com" target="_top"> remotenactive.com </a> and consult agencies and startups on paid media
 
-🌱 Learning Full Stack Web Development via <a href ="https:www.theodinproject.com" target="_top">TheOdinProject</a>
+🌱 Learning Full Stack Web Development via <a href ="https://www.theodinproject.com" target="_top">TheOdinProject</a>
 
 ✍🏾 I <a href ="https://www.jessekhala.com" target="_top">write about topics</a>  related to my journey  
 
