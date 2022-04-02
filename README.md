@@ -31,6 +31,8 @@
 
 📕 Latest Blog Articles
 
+- <a href ="https://jessekhala.com/posts/peyote-ceremony-i-made-a-game-about-peyote/" target="_top"> 🏜️ I Made a Game About The Hallucinogenic Mexican Cactus Peyote That’s Going Extinct  </a>
+- <a href ="https://jessekhala.com/posts/my-digital-detox-experience/" target="_top"> 🍃 My Digital Detox Experience - LinkedIn  </a>
 - <a href ="https://jessekhala.com/posts/what-are-javascript-frameworks/" target="_top"> 🎨 JavaScript Frameworks? Read this. </a>
 - <a href ="https://jessekhala.com/posts/full-stack-web-development-course-free/" target="_top"> 👨🏾‍💻 Learning Full Stack Web Development for Free - My First Month </a>
 - <a href ="https://jessekhala.com/posts/changes-to-remotenactive/" target="_top"> 🔁 Changes I am making on remotenactive.com </a>
