@@ -3,22 +3,11 @@
 
 ---
 
-⚡ Learning to code with a 10+ years marketing background
+🌱 Learning Full Stack Web Development via <a href ="https://www.theodinproject.com" target="_top">TheOdinProject</a>
 
 🔭 Started my own micro startup <a href ="https://www.remotenactive.com" target="_top"> remotenactive.com </a> and consult agencies and startups on paid media
 
-🌱 Learning Full Stack Web Development via <a href ="https://www.theodinproject.com" target="_top">TheOdinProject</a>
-
 ✍🏾 I <a href ="https://www.jessekhala.com" target="_top">write about topics</a>  related to my journey  
-
-👯 I’m looking to collaborate on exciting projects in the startup eco system
-
-🎓 BA in Media Culture Studies / Media Psychology (University of Cologne, Germany)
-
-🤡 Fun facts:
-
-- I’m a passionate sportsperson & certified Group Fitness Trainer
-- I grew up playing SNES, loved Zelda and Mario Kart and used to play Counter Strike in the ESL Top 100 (very, veeeeery long ago)
 
 ---
 
