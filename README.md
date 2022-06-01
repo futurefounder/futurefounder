@@ -1,4 +1,3 @@
-###  <img src="https://i.ibb.co/f8fvRNb/fox-wave.gif" width="130px">
 ### Hi there, I am Jesse!
 
 ---
