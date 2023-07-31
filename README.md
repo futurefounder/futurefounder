@@ -1,5 +1,10 @@
 ### Hi there, I am Jesse!
 
+I'm currently working on 
+
+- [My9Friends](my9friends.com) a website for yoga classes
+- [TindasanaAI](my9friends.com/tindasanaai) a project blending yoga and artificial intelligence
+
 ---
 I work with
 
