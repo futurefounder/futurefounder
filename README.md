@@ -2,8 +2,8 @@
 
 I'm currently working on 
 
-- [My9Friends](my9friends.com) a website for yoga classes
-- [TindasanaAI](my9friends.com/tindasanaai) a project blending yoga and artificial intelligence
+- [My9Friends](https://www.my9friends.com) a website for yoga classes
+- [TindasanaAI](https://www.my9friends.com/tindasanaai) a project blending yoga and artificial intelligence
 
 ---
 I work with
