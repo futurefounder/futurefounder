@@ -1,9 +1,12 @@
 ### Hi there, I am Jesse!
 
-I'm currently working on 
+I'm currently 
 
-- [My9Friends](https://www.my9friends.com) a website for yoga classes
-- [TindasanaAI](https://www.my9friends.com/tindasanaai) a project blending yoga and artificial intelligence
+📚 Working through the React Job Simulator at Profy.dev curriculum to become job-ready in Next.js/React.
+
+🌱 Passionate about web development and mastering professional workflows.
+
+🔗 Let's connect and learn from each other!
 
 <!-- I work with
 
