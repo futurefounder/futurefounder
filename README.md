@@ -2,11 +2,11 @@
 
 I'm currently 
 
-📚 Working through the React Job Simulator at Profy.dev curriculum to become job-ready in Next.js/React.
+📚 working through the React Job Simulator at Profy.dev curriculum to become job-ready in Next.js/React.
+🤝🏾 creating a remote group project at [Chingu](https://www.chingu.io/)
 
-🌱 Passionate about web development and mastering professional workflows.
-
-🔗 Let's connect and learn from each other!
+💼 I'm open to freelance projects from November/December 2023
+💌 Contact me via my website [jessekhala.com](https://jessekhala.com)
 
 <!-- I work with
 
