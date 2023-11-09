@@ -6,8 +6,6 @@ I'm currently
 
 🤝🏾 creating a remote group project at [Chingu](https://www.chingu.io/)
 
-💼 I'm open to freelance projects from November/December 2023
-
 💌 Contact me via my website [jessekhala.com](https://jessekhala.com)
 
 <!-- I work with
