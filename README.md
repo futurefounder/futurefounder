@@ -1,12 +1,10 @@
 ### Hi there, I am Jesse!
 
-I'm currently 
+I'm a web developer and media strategist. 🖥️💡 
 
-📚 working through the React Job Simulator at Profy.dev curriculum to become job-ready in Next.js/React.
+With a rich background in advertising and tech, I excel in creating impactful websites and (digital) marketing strategies. 
 
-🤝🏾 creating a remote group project at [Chingu](https://www.chingu.io/)
-
-💌 Contact me via my website [jessekhala.com](https://jessekhala.com)
+I'm currently thriving in the freelance world, and I'm always ready for new challenges!
 
 <!-- I work with
 
