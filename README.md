@@ -1,10 +1,6 @@
 ### Hi there, I am Jesse!
 
-I'm a web developer and media strategist. 🖥️💡 
-
-With a rich background in advertising and tech, I excel in creating impactful websites and (digital) marketing strategies. 
-
-I'm currently thriving in the freelance world, and I'm always ready for new challenges!
+I'm a web developer with a diverse background in media strategy and tech 🖥️💡 
 
 <!-- I work with
 
