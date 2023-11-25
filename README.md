@@ -1,6 +1,11 @@
 ### Hi there, I am Jesse!
 
-I'm a web developer with a diverse background in media strategy and tech 🖥️💡 
+I'm a passionate web developer blending expertise in media strategy and technology. With a knack for creating dynamic web solutions, I bring a unique perspective to the digital world.
+
+Interested in collaborating or discussing a project? 
+Feel free to 
+
+☎️ [schedule a call with me](https://cal.com/hi-jesse/quick-chat-15) and let’s explore possibilities together!
 
 <!-- I work with
 
