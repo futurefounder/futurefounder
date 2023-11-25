@@ -11,9 +11,9 @@ and let’s explore possibilities together!
 
 Find me around the web
 
-[👉🏾 LinkedIn](https://www.linkedin.com/in/hi-jesse/)
+👉🏾 [LinkedIn](https://www.linkedin.com/in/hi-jesse/)
 
-[👉🏾 Personal website](http://jessekhala.com/)
+👉🏾 [Personal website](http://jessekhala.com/)
 
 <!-- I work with
 
