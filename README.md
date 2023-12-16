@@ -1,6 +1,6 @@
 # Hi there, I am Jesse!
 
-I'm a passionate web developer (HTML, CSS, JavaScript, React.js, Next.js) blending expertise in media strategy and technology. 
+I'm a passionate web developer (HTML, CSS, JavaScript, React, Next.js) blending expertise in media strategy and technology. 
 
 Interested in collaborating or discussing a project? 
 Feel free to 
