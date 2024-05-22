@@ -2,13 +2,6 @@
 
 I'm a passionate web developer (HTML, CSS, JavaScript, React, Next.js) blending expertise in media strategy and technology. 
 
-Interested in collaborating or discussing a project? 
-Feel free to 
-
-☎️ [schedule a call with me](https://cal.com/hi-jesse/quick-chat-15) 
-
-and let’s explore possibilities together!
-
 Find me around the web
 
 👉🏾 [LinkedIn](https://www.linkedin.com/in/hi-jesse/)
