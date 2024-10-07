@@ -6,4 +6,4 @@ In my previous professional life, I managed media budgets from big corporations 
 
 I also launched a failed a a boutique remote team building service "¯\ \_(ツ)_/¯"
 
-In addition to freelance work I am currently pursuing a masters degree in media informatics.
+In addition to my freelance work, I am currently pursuing a Master's degree in Media Informatics.
