@@ -1,3 +1,3 @@
 # Hi there, I am Jesse!
 
-I [help companies with their websites and digital processes](https://www.jessekhala.com/about?utm_source=github&utm_medium=readme).
+I work as a web developer at at IT infrastructure company and study part-time Media Informatics (M.Sc.), @ Brandenburg University of Applied Sciences.
